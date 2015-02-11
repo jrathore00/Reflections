@@ -1,0 +1,41 @@
+*When would you want to use a remote repository rather than keeping all your work
+local?
+
+-I would want to create a remote repository when I'm ready to share my work with my 
+collegues or I am stuck and need help.
+
+*Why might you want to always pull changes manually rather than having Git
+automatically stay up-to-date with your remote repository?
+
+-Because if git automatically pulls from the remote repository it will
+constantly change the code base and you dont want that since it will cause 
+confusion when you are working to fix a bug or adding a new feature.
+
+*Describe the differences between forks, clones, and branches.  When would you
+use one instead of another?
+
+-Fork are used to copy repositorys on GitHub. You would use forks to make a change 
+on a repository on GitHub. Clones are used to copy repositories to your local machine.
+You would use it to have online access to repositories you've cloned off of GitHub.
+Branches are used to help you implement features and to fix bugs since branches will not 
+affect how to master functions. You would use branching to collaborate with other people 
+or help implement a function you are not too sure about.
+
+*What is the benefit of having a copy of the last known state of the remote
+stored locally?
+
+-The benefit of having a copy of the last known state of the remote stored locally is that
+you risk pulling a new commit if you dont know.
+
+*How would you collaborate without using Git or GitHub?  What would be easier,
+and what would be harder?
+
+-I would use Git and GitHub eventually once I have gotten a better understanding of how to use it.
+Using DropBox would be much easier than Github but then there would be room for a lot of mistakes
+is people are not careful.
+
+*When would you want to make changes in a separate branch rather than directly in
+master?  What benefits does each approach have?
+
+-I would make changes in a sepatate branch rather than in the master if I wanted to test an idea further
+and get feed back from collaborates via pull requests to make a final decision.
