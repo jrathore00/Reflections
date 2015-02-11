@@ -1,0 +1,45 @@
+*How did viewing a diff between two versions of a file help you see the bug that 
+was introduced?
+
+-It was easier to spot the typo when viewing only the differences 
+between the files otherwise it would have become very tedious to look for the bug.
+
+*How could having easy access to the entire history of a file make you a more 
+efficient programmer in the long term?
+
+-You would not have to worry about manually backing up your files
+and could easily go back to a version that was working rather than having 
+to find the bug or start over.
+
+*What do you think are the pros and cons of manually choosing when to create a
+commit, 
+like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+-Con is that you have to do it manually and pro is that it is far more accurate
+for programming purposes to manually save your files and add a little comment about what
+you fixed in that version. 
+
+*Why do you think some version control systems, like Git, allow saving multiple
+files 
+in one commit, while others, like Google Docs, treat each file separately?
+
+-Because multiple files that are closely related are more prevalent in programming 
+rather than non programming applications. So it would make sense to save all the files
+that involve one another rather than saving files that have nothing to do with each other.
+
+*How can you use the commands git log and git diff to view the history of files?
+
+You can use git log to see all the commits that have been made on a project. And you can then use
+git diff to compare those commits to see what exactly was added or changed.
+
+*How might using version control make you more confident to make changes that
+could break something?
+
+-Because I would have peace of mind knowing that anything i do can be fixed. Also, it would help me when
+I make mistakes and rather than having to go back and fix them I could just go back to a version that worked
+and begin anew.
+
+*Now that you have your workspace set up, what do you want to try using Git for?
+
+-I want to use fit for working on a group project together with my team mates.
